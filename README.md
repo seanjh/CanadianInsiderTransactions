@@ -5,7 +5,6 @@ This application is intended for use as a user-driven command-line based browser
 * https://www.sedi.ca/sedi/disclaimer_en.html
 
 ## Usage
-    Usage:
         $ python sedi_transactions <issuer_num>...
     
     Options:
