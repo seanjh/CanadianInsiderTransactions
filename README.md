@@ -14,7 +14,7 @@ See the SEDI Terms of Use for more details.
 * https://www.sedi.ca/sedi/disclaimer_en.html
 
 ## Usage
->>> $ python sedi_transactions issuer_num...
+    $ python sedi_transactions issuer_num...
 
 The resulting HTML (if any) will be downloaded to the /output 
 directory beneath the application's root directory.
